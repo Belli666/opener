@@ -1,0 +1,21 @@
+# Python & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.spec.bak
+
+# PyInstaller build outputs
+build/
+dist/
+
+# Chrome runtime profile and cache
+chrome_profile/
+*.log
+drivers/
+
+# System and editor files
+.agents/
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
